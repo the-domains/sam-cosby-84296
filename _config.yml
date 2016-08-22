@@ -1,4 +1,3 @@
-layout_spectrum: 0.7060203584842384
 typography_spectrum: 0.3585801830049604
 color:
   brandStrength: 0.1443405516911298
@@ -11,4 +10,6 @@ color:
     - '#A1E8D9'
     - '#FF712C'
     - '#695D46'
+layout_spectrum: 0.7060203584842384
 name: Sam Cosby
+title: Sam Cosby
