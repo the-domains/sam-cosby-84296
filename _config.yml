@@ -12,5 +12,9 @@ color:
     - '#695D46'
 layout_spectrum: 0.7060203584842384
 name: Sam Cosby
+navigation:
+  - name: Bio
+    id: 8d206f14-937b-48aa-8f00-032a3f604326
+    type: content
 title: Sam Cosby
 description: '"creating everyday"'
