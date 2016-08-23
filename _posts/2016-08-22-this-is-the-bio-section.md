@@ -1,5 +1,7 @@
 ---
-datePublished: '2016-08-23T16:03:33.069Z'
+datePublished: '2016-08-23T16:35:25.343Z'
+sourcePath: _posts/2016-08-22-this-is-the-bio-section.md
+hasPage: true
 author: []
 via: {}
 metadata:
@@ -22,16 +24,14 @@ metadata:
   id: 6a87b752-860f-475a-8036-61cf694367ca
   publisher: {}
   description: This is the Bio Section
-dateModified: '2016-08-23T16:03:32.554Z'
+dateModified: '2016-08-23T16:35:24.816Z'
 title: ''
 id: 6a87b752-860f-475a-8036-61cf694367ca
 publisher: {}
 description: >-
-  This is the Bio Section Sam Cosby Sam Cosby began his excursion of the Arts at
-  the age of 14. One day his mother blatantly told him, “You’re going to be a
-  bum for the rest of your life… Pick a career”
-sourcePath: _posts/2016-08-22-this-is-the-bio-section.md
-hasPage: true
+  Sam Cosby began his excursion of the Arts at the age of 14. One day his mother
+  blatantly told him, “You’re going to be a bum for the rest of your life… Pick
+  a career”
 starred: false
 url: this-is-the-bio-section-sam-cosby-sam-cosby-began-his-excurs/index.html
 _type: Blurb
@@ -39,7 +39,7 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1995479d-928d-4110-bd82-0809f63b1174.png)
 
-This is the Bio Section Sam Cosby Sam Cosby began his excursion of the Arts at the age of 14\. One day his mother blatantly told him, "You're going to be a bum for the rest of your life... Pick a career"
+Sam Cosby began his excursion of the Arts at the age of 14\. One day his mother blatantly told him, "You're going to be a bum for the rest of your life... Pick a career"
 
 He proved the first half of that statement wrong a couple of days later when he picked up the Bass Guitar. Within two days of getting it, he began playing. It was a wrap. His passion had found him.
 
