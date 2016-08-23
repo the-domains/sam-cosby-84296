@@ -16,5 +16,8 @@ navigation:
   - name: Home
     id: 8d206f14-937b-48aa-8f00-032a3f604326
     type: content
+  - name: About
+    id: 6a87b752-860f-475a-8036-61cf694367ca
+    type: content
 title: Sam Cosby
 description: '"creating everyday"'
